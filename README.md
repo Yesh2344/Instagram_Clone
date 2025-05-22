@@ -23,3 +23,11 @@ This application allows users to:
 *   **My Photos:** A dedicated view for users to see and manage their own uploaded photos.
 *   **Like Photos:** Users can like and unlike photos.
 
+### 2. Real-time Chat
+*   **User List:** View a list of users to start new conversations.
+*   **Conversations:** Engage in one-on-one text-based conversations.
+*   **Real-time Updates:** Messages appear instantly without needing to refresh.
+*   **Online Status:** See if other users are currently online or their last seen time.
+*   **Typing Indicators:** See when the other user is typing a message.
+*   **Unread Message Counts:** Visual indicators for unread messages in conversations.
+
