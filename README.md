@@ -13,3 +13,13 @@ This application allows users to:
 *   Engage in real-time one-on-one chat conversations with other users.
 *   See user online status and typing indicators in chat.
 *   Initiate and receive real-time voice calls using WebRTC.
+
+
+## Features
+
+### 1. Photo Sharing
+*   **Upload Photos:** Users can upload images with an optional caption.
+*   **Photo Stream:** A main feed displaying photos from all users, sorted by creation time.
+*   **My Photos:** A dedicated view for users to see and manage their own uploaded photos.
+*   **Like Photos:** Users can like and unlike photos.
+
