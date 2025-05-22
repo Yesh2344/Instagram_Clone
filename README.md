@@ -129,4 +129,4 @@ https://quirky-seal-814.convex.app/
 
 ## Copyrights
 
-@Yeswanth Soma
+@Yeswanth Soma All Copyrights Reserved
