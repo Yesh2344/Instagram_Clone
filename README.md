@@ -132,3 +132,5 @@ https://quirky-seal-814.convex.app/
 @Yeswanth Soma All Copyrights Reserved
 
 ## Contact
+
+Email: yeswanthsoma83@gmail.com
