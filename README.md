@@ -48,3 +48,11 @@ This application allows users to:
     *   [Lucide Icons](https://lucide.dev/): Simply beautiful open-source icons.
     *   [date-fns](https://date-fns.org/): Modern JavaScript date utility library.
 
+*   **Backend & Database:**
+    *   [Convex](https://convex.dev/): Reactive backend-as-a-service platform providing:
+        *   Real-time Database
+        *   Serverless Functions (Queries and Mutations)
+        *   Authentication (via `@convex-dev/auth`)
+        *   File Storage
+*   **Language:** TypeScript
+
