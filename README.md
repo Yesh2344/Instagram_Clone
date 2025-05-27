@@ -14,6 +14,7 @@ This application allows users to:
 *   See user online status and typing indicators in chat.
 *   Initiate and receive real-time voice calls using WebRTC.
 
+
 ## Features
 
 ### 1. Photo Sharing
@@ -46,6 +47,7 @@ This application allows users to:
     *   [Sonner](https://sonner.emilkowal.ski/): Toast notifications for React.
     *   [Lucide Icons](https://lucide.dev/): Simply beautiful open-source icons.
     *   [date-fns](https://date-fns.org/): Modern JavaScript date utility library.
+
 *   **Backend & Database:**
     *   [Convex](https://convex.dev/): Reactive backend-as-a-service platform providing:
         *   Real-time Database
@@ -120,3 +122,15 @@ The WebRTC calling feature uses a signaling mechanism built with Convex mutation
 
 This setup allows for robust call signaling and management using Convex's real-time capabilities.
 "# Instagram_Clone" 
+
+## Link
+
+https://quirky-seal-814.convex.app/
+
+## Copyrights
+
+@Yeswanth Soma All Copyrights Reserved
+
+## Contact
+
+Email: yeswanthsoma83@gmail.com
