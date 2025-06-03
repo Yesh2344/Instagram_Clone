@@ -127,10 +127,4 @@ This setup allows for robust call signaling and management using Convex's real-t
 
 https://quirky-seal-814.convex.app/
 
-## Copyrights
 
-@Yeswanth Soma All Copyrights Reserved
-
-## Contact
-
-Email: yeswanthsoma83@gmail.com
