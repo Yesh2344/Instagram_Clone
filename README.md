@@ -123,14 +123,4 @@ The WebRTC calling feature uses a signaling mechanism built with Convex mutation
 This setup allows for robust call signaling and management using Convex's real-time capabilities.
 "# Instagram_Clone" 
 
-## Link
 
-https://quirky-seal-814.convex.app/
-
-## Copyrights
-
-@Yeswanth Soma All Copyrights Reserved
-
-## Contact
-
-Email: yeswanthsoma83@gmail.com
