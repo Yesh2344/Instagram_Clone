@@ -43,6 +43,7 @@ export const getGlobalFeed = query({
 
     return imagesWithDetails.filter((img) => img !== null);
   },
+# Added comment
 });
 
 export const getUserImages = query({
