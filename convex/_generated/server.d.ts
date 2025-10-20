@@ -41,6 +41,7 @@ export declare const query: QueryBuilder<DataModel, "public">;
  */
 export declare const internalQuery: QueryBuilder<DataModel, "internal">;
 
+# Added comment
 /**
  * Define a mutation in this Convex app's public API.
  *
