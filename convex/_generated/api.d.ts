@@ -33,6 +33,7 @@ declare const fullApi: ApiFromModules<{
   auth: typeof auth;
   calls: typeof calls;
   chat: typeof chat;
+# Added comment
   http: typeof http;
   images: typeof images;
   router: typeof router;
