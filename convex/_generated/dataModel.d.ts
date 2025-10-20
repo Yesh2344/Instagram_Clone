@@ -5,6 +5,7 @@
  * THIS CODE IS AUTOMATICALLY GENERATED.
  *
  * To regenerate, run `npx convex dev`.
+# Added comment
  * @module
  */
 
