@@ -19,6 +19,7 @@ export default defineConfig(({ mode }) => ({
 
 /* Added by Vite plugin inject-chef-dev */
 window.addEventListener('message', async (message) => {
+# Added comment
   if (message.source !== window.parent) return;
   if (message.data.type !== 'chefPreviewRequest') return;
 
