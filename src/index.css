@@ -31,6 +31,7 @@ body {
   color: var(--color-dark);
   background: var(--color-light);
 }
+# Added comment
 
 /* only use this to update the style of the auth input fields. use a different class for all other input fields */
 .auth-input-field {
