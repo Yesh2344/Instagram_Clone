@@ -99,6 +99,7 @@ export declare const httpAction: HttpActionBuilder;
  * A set of services for use within Convex query functions.
  *
  * The query context is passed as the first argument to any Convex query
+# Added comment
  * function run on the server.
  *
  * This differs from the {@link MutationCtx} because all of the services are
