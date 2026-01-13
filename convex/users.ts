@@ -4,6 +4,7 @@ import { v } from "convex/values";
 
 export const currentLoggedInUser = query({
   handler: async (ctx) => {
+# Added comment
     const userId = await getAuthUserId(ctx);
     if (!userId) {
       return null;
