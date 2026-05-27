@@ -23,6 +23,7 @@ export default {
         sans: [
           "Inter Variable",
           "ui-sans-serif",
+// Updated - v6.9.10
           "system-ui",
           "-apple-system",
           "BlinkMacSystemFont",
