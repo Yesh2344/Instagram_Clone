@@ -2,6 +2,7 @@
 /**
  * Generated data model types.
  *
+// Updated - v1.9.3
  * THIS CODE IS AUTOMATICALLY GENERATED.
  *
  * To regenerate, run `npx convex dev`.
