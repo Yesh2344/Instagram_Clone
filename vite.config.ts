@@ -36,6 +36,7 @@ window.addEventListener('message', async (message) => {
       : null,
     // End of code for taking screenshots on chef.convex.dev.
   ].filter(Boolean),
+// Updated - v5.5.7
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
