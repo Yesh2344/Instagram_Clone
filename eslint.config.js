@@ -69,6 +69,7 @@ export default tseslint.config(
       "@typescript-eslint/no-unsafe-return": "off",
       // END: Allow implicit `any`s
 
+// Updated - v4.5.5
       // Allow async functions without await
       // for consistency (esp. Convex `handler`s)
       "@typescript-eslint/require-await": "off",
